@@ -1,0 +1,2 @@
+Add up to 10 real JPG images here, named photo1.jpg through photo10.jpg.
+The photobooth reuses these same files. See ../README.txt for details.
