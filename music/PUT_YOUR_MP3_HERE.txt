@@ -1,0 +1,2 @@
+Put your MP3 song here and name it birthday-song.mp3.
+Expected path: music/birthday-song.mp3. See ../README.txt for details.
